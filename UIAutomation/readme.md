@@ -1,6 +1,5 @@
-# UIPath Automation Coding Exercises
+# UI Automation Coding Exercises
 
-Below are three practical coding exercises intended for evaluating a Senior UI Automation Engineer's proficiency with UIPath. Each exercise references publicly accessible real-world applications for demonstration purposes. Candidates should complete each task in about 15 minutes, with all three comfortably achievable within a 45-minute session.
 
 ---
 
